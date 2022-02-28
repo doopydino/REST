@@ -1,6 +1,6 @@
 const express = require('express')
 const app = express()
-const uid =require('uid')
+const uid = require('uid')
 const port = 3000
 
 let objs = {}
