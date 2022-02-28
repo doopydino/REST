@@ -1,3 +1,7 @@
+### My Solutions
+
+In index.js, I coded 4 functions which list branches in a repository, create a repo for an organization, create an issue for a repo, and enable wiki support for a repo. These were done by editing the index.js file to include my GitHub username, repo names, and test repo and issue names. I also defined the endpoint and request body for each of the 4 functions. The functions were tested and it was determined that they work as intended.
+
 # Introduction
 
 A *RESTful architecture*, is an architectural style ([Fielding](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)) for providing resources to clients using a set of request verbs and resource locations. A REST API allows a client to access resources provided by a service.
